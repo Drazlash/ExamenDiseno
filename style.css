@@ -80,6 +80,7 @@ hr.light{
   } 
   .navbar img{
     height: 32px;
+    width: 50px;
   }
   .carousel-caption h1{
     font-size: 350%;
