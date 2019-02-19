@@ -77,6 +77,9 @@ hr.light{
 @media (max-width: 768px) {
   .carousel-caption{
     top: 45%;
+  } 
+  .navbar img{
+    height: 52px;
   }
   .carousel-caption h1{
     font-size: 350%;
@@ -96,7 +99,7 @@ hr.light{
 }
 
 
-/*---Firefox Bug Fix --*/
+/*---Firefox--*/
 .carousel-item {
   transition: -webkit-transform 0.5s ease;
   transition: transform 0.5s ease;
@@ -104,7 +107,7 @@ hr.light{
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
 }
-/*--- Fixed Background Image --*/
+/*--- fondo fijo --*/
 figure {
   position: relative;
   width: 100%;
